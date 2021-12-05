@@ -1,0 +1,9 @@
+flask-wtf
+gunicorn
+jupyter
+opencv-python
+pillow
+pip-chill
+scipy
+tensorflow
+virtualenv
