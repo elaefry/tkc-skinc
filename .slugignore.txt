@@ -1,6 +1,0 @@
-__pycache__
-myenv/*
-static/vendor/*
-static/form/*
-static/js/*
-static/main/*
